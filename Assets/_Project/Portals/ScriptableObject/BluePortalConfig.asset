@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f7779b63a852444a8be9bb0eb2a01f, type: 3}
+  m_Name: BluePortalConfig
+  m_EditorClassIdentifier: 
+  _summoningTimer: 10
+  _colorPortal: 2
+  _materialPortal: {fileID: 2100000, guid: baa3ddd7f149be84e8f30c27fdb8a2c6, type: 2}
