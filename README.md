@@ -13,7 +13,7 @@
 
 #### Поиск аптечки
 Если есть активная аптечка , то бот движется к ней. Если аптечек нету, то начинает расти уровень паники и бегства 
- <img src="/Assets/ImageGit/SearchAidkit.jpg" width="400" />
+<img src="/Assets/ImageGit/SearchAidkit.jpg" width="400" />
 
 #### Функция - убить всех 
  <img src="/Assets/ImageGit/killAll.jpg" width="400" />
