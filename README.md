@@ -5,7 +5,7 @@
 
 #### Критическая атака
 Урон умноженный на коэффициент крита
-<img src="/Assets/ImageGit/critAttack.jpg" width="400" />
+<img src="/Assets/ImageGit/critAttack.jpg"   />
 
 #### Двойная атака
 При срабатывании двойного удара атака происходит без тайминга 
